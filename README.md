@@ -1,18 +1,16 @@
 ### Hi there 👋
 
 
-<!-- **ArnaudAploon/ArnaudAploon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ArnaudAploon/ArnaudAploon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning nothing
+- 👯 I’m looking to collaborate on Elyôn
+- 🤔 I’m looking for help with ALX program
+- 💬 Ask me about anything about programming
+- 📫 How to reach me: **arnaudadjovi274@gmail.com**
+- 😄 Pronouns: 🙄
+- ⚡ Fun fact: I'm strange
 
 
 
@@ -21,7 +19,7 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://ic.pics.livejournal.com/yasha_jj89/37838484/5244/5244_900.gif" style="border-radius: 5px; margin-bottom: 10px"> -->
 
-*Sofware Engineer. Dart is my religion !!*
+<!-- *Sofware Engineer. Dart is my religion !!*
 
 - 🔭 I’m currently working as a freelancer, open source contributor and [blogger](https://www.juniormedehou.me);
 - 🌱 I’m currently learning how to become the best;
@@ -31,7 +29,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **juniormedehou@gmail.com**;
 - ⚡ Fun fact: I am a manga addict and also passionate about gaming;
 
-Feel free to contact me and contribute :wink:.
+Feel free to contact me and contribute :wink:. -->
 
 ---
 ***Tools & Technologies*** (_don't call me Fullstack please_):
@@ -48,10 +46,10 @@ Feel free to contact me and contribute :wink:.
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArnaudAploon&theme=black-ice&hide_border=true)](https://git.io/streak-stats)     |
 
 
-[![Medium](https://img.shields.io/badge/Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@juniormedehou)
+<!-- [![Medium](https://img.shields.io/badge/Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@juniormedehou)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/juniormedehou_/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juniormedehou/)
 [![Mail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](juniormedehou@gmail.com)
-!["](https://komarev.com/ghpvc/?username=NemesisX1&label=Profile%20views&color=0e75b6&style=flat)
+!["](https://komarev.com/ghpvc/?username=NemesisX1&label=Profile%20views&color=0e75b6&style=flat) -->
 
 </div>
