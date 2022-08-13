@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**ArnaudAploon/ArnaudAploon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **ArnaudAploon/ArnaudAploon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 
 
 
 ### Hello World ! <img height="30" src="https://media0.giphy.com/media/QTlmH8hEoVoi83mdJC/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp"></img>
 
-<img src="https://ic.pics.livejournal.com/yasha_jj89/37838484/5244/5244_900.gif" style="border-radius: 5px; margin-bottom: 10px">
+<!-- <img src="https://ic.pics.livejournal.com/yasha_jj89/37838484/5244/5244_900.gif" style="border-radius: 5px; margin-bottom: 10px"> -->
 
 *Sofware Engineer. Dart is my religion !!*
 
@@ -45,7 +45,7 @@ Feel free to contact me and contribute :wink:.
 <!--END_SECTION:waka-->
 |       |
 |  ---        |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NemesisX1&theme=black-ice&hide_border=true)](https://git.io/streak-stats)     |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ArnaudAploon&theme=black-ice&hide_border=true)](https://git.io/streak-stats)     |
 
 
 [![Medium](https://img.shields.io/badge/Medium-000000?&style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/@juniormedehou)
