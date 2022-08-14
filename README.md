@@ -1,5 +1,6 @@
-### Hi there 👋
+<img src="assets/apwebstore4.gif" style="border-radius: 5px; margin-bottom: 10px">
 
+### Hi there 👋
 
 <!-- **ArnaudAploon/ArnaudAploon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -16,8 +17,6 @@
 
 
 <!-- ### Hello World ! <img height="30" src="https://media0.giphy.com/media/QTlmH8hEoVoi83mdJC/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp"></img> -->
-
-<!-- <img src="https://ic.pics.livejournal.com/yasha_jj89/37838484/5244/5244_900.gif" style="border-radius: 5px; margin-bottom: 10px"> -->
 
 <!-- *Sofware Engineer. Dart is my religion !!*
 
