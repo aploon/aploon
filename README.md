@@ -14,8 +14,6 @@
 - ⚡ Fun fact: I'm strange
 
 
-
-
 <!-- ### Hello World ! <img height="30" src="https://media0.giphy.com/media/QTlmH8hEoVoi83mdJC/200w.webp?cid=ecf05e475gkndp9379fxllqfhbet5s7wigrkj492lpi0go0s&rid=200w.webp"></img> -->
 
 <!-- *Sofware Engineer. Dart is my religion !!*
