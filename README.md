@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-<!-- **ArnaudAploon/ArnaudAploon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **ArnaudAploon/ArnaudAploon** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning nothing
