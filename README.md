@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning nothing
-- 👯 I’m looking to collaborate with <a href="https://elyonsas.com/fr/">**Elyôn**</a>
+- 👯 I’m looking to collaborate with anyone
 - 🤔 I’m looking for help with ALX program
 - 💬 Ask me about anything about programming
 - 📫 How to reach me: **arnaudadjovi274@gmail.com**
