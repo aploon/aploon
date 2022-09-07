@@ -1,4 +1,4 @@
-<img src="assets/apwebstore5.gif" style="border-radius: 5px; margin-bottom: 10px; position: relative; top: -150px;">
+<img src="assets/apwebstore5.gif" style="border-radius: 5px; margin-bottom: 10px;">
 
 ### Hi there 👋
 
