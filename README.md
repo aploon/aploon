@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning nothing
 - 👯 I’m looking to collaborate with anyone
-- 🤔 I’m looking for help with ALX program
+- 🤔 I’m looking for help with my actual project
 - 💬 Ask me about anything about programming
 - 📫 How to reach me: **arnaudadjovi274@gmail.com**
 - 😄 Pronouns: 🙄
