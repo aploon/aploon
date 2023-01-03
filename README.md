@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=ArnaudAploon&theme=black-ice&hide_border=true" alt="Arnaud Aploon">
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=aploon&theme=black-ice&hide_border=true" alt="Arnaud Aploon">
 </p>
 
 <p align="center"> 
@@ -19,8 +19,8 @@
 ***Github stats***
 
 <p align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ArnaudAploon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ArnaudAploon&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=151515&title_color=00e6fe" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ArnaudAploon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnaudAploon&langs_count=10&layout=compact&theme=dracula&hide_border=true&bg_color=151515&title_color=00e6fe&hide=Jupyter%20Notebook" height="192px"/></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aploon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aploon&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=151515&title_color=00e6fe" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aploon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aploon&langs_count=10&layout=compact&theme=dracula&hide_border=true&bg_color=151515&title_color=00e6fe&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
