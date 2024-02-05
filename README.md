@@ -6,7 +6,7 @@
    <a href="https://twitter.com/_aploon" target="blank">
     <img src="https://img.shields.io/twitter/follow/_aploon?logo=twitter&style=for-the-badge" alt="@_aploon" />
    </a>
-   <img src="https://komarev.com/ghpvc/?username=arnaudadjovi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="arnaudadjovi" />
+   <img src="https://komarev.com/ghpvc/?username=arnaudaploon&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="arnaudaploon" />
 </p>
 
 <h1></h1>
