@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=aploon&theme=black-ice&hide_border=true" alt="Arnaud Aploon">
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aploon&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center"> 
