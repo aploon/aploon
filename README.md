@@ -24,10 +24,10 @@
 
 <p align="center">
    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aploon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aploon&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=151515&title_color=00e6fe" height="175px"/></a>
-  <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aploon's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aploon&langs_count=10&layout=compact&theme=dracula&hide_border=true&bg_color=151515&title_color=00e6fe&hide=Jupyter%20Notebook" height="175px"/></a> -->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aploon's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aploon&langs_count=10&layout=compact&theme=dracula&hide_border=true&bg_color=151515&title_color=00e6fe&hide=Jupyter%20Notebook" height="175px"/></a>
    
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aploon's Top Languages" src="https://github-readme-stats.vercel.app/api?username=aploon&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false" height="175px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aploon's Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=aploon&theme=blue_navy&hide_border=false" height="175px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aploon's Top Languages" src="https://github-readme-streak-stats.herokuapp.com/?user=aploon&theme=dracula&hide_border=false" height="175px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aploon's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aploon&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="175px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
