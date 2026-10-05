@@ -19,7 +19,7 @@
 ***Github stats***
 
 <p align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aploon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aploon&theme=dark"/></a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aploon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aploon&theme=dark&ring=fb8c00"/></a>
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aploon&theme=dark" alt="GitHub Streak" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
