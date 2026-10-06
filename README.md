@@ -19,6 +19,7 @@
 ***Github stats***
 
 <p align="center">
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aploon's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=aploon&theme=dark&ring=fb8c00"/></a>
    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="aploon's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=aploon&theme=dark&ring=fb8c00"/></a>
    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aploon&theme=dark" alt="GitHub Streak" /></a>
   <br/>
